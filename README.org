@@ -1,0 +1,87 @@
+*** retirement
+Gavin Smith (Bitcoin contributor)
+http://gavinthink.blogspot.com/
+
+
+http://www.mrmoneymustache.com/
+
+*** podcasts
+**** random
+http://www.c-span.org/search/?searchtype=Videos&sort=Most+Recent+Airing&seriesid[]=5
+http://www.c-span.org/series/?bookTv
+
+http://siskelandebert.org/videos
+https://archive.org/details/oldtimeradio
+https://www.youtube.com/watch?v=vH2PVx2vPUE
+**** philosophy
+http://www.philosophyinaction.com/podcasts/
+
+**** entertainment
+http://www.adultswim.com/videos/rick-and-morty/close-rick-counters-of-the-rick-kind/
+http://watch-series-tv.to/
+
+**** startups (developreneurs)
+http://entreprogrammers.com/page/2/
+http://techzinglive.com/
+https://www.youtube.com/watch?v=jKqAV1l5IQw tim ferriss
+https://www.youtube.com/watch?v=55pfcmUzGhw george carlin
+https://www.youtube.com/watch?v=j7YDCXS5gc4
+
+**** programming
+https://blogs.oracle.com/javaspotlight/
+https://spark-summit.org/2014/training
+https://www.youtube.com/user/TheApacheSpark/playlists
+https://www.youtube.com/results?search_query=apache+spark&search_sort=video_view_count
+
+**** machine learning
+http://www.learningmachines101.com/ look on the right hand side
+https://www.udacity.com/podcasts/linear-digressions
+http://www.partiallyderivative.com/
+http://dataskeptic.com/episodes.php
+http://radar.oreilly.com/tag/oreilly-data-show-podcast
+https://www.cs.washington.edu/events/colloqpodcast_v2.xml
+https://soundcloud.com/a16z/big-data-machine-learning
+http://datastori.es/
+http://www.thetalkingmachines.com/blog/
+
+**** science fiction
+http://geeksguideshow.com/
+http://www.missionlogpodcast.com/
+http://www.bbc.co.uk/programmes/b011cjg4/episodes/guide
+http://podcastle.org/
+
+http://treksinscifi.com/podcast_notes/
+http://www.sfbrp.com/
+
+http://www.sci-guys.com/content/
+http://gettingonwithju.libsyn.com/
+http://feeds.feedburner.com/sfsignalpodcast
+http://feeds.feedburner.com/deadrobotssociety
+http://feeds.feedburner.com/HideAndCreate
+
+http://escapepod.org/
+http://podiobooks.com/
+http://www.drabblecast.org/
+http://www.sliceofscifi.com/
+http://www.leviathanchronicles.com/
+http://sfsqueecast.com/
+http://www.thisamericanlife.org/
+http://www.starshipsofa.com/blog/category/podcast/
+http://blip.tv/rgbfilter/rgbfilter-neal-stephenson-anathem-1464835
+
+http://feeds.feedburner.com/TheSkiffyAndFantyShow
+
+**** politics
+http://www.dancarlin.com/product-category/common-sense-with-dan-carlin/
+**** investing
+http://www.dhunplugged.com/category/podcasts/
+http://traderspodcast.com/ [FUCKING TERRIBLE: glorified sales pitch,
+encouraging a pediatrician, on a 50 hrs a week schedule, to do forex
+trading]
+
+http://investtalk.libsyn.com/
+http://fool.libsyn.com/
+
+*** data viz sites
+http://freedominthe50states.org/
+
